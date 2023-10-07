@@ -1,1 +1,2 @@
 This is the login functionality
+added another functinality for forgot password
