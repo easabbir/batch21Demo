@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here
+This is my life changing code base. it can login, logout, remember me 
 
 ## Getting Started
 
