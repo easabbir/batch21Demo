@@ -1,0 +1,4 @@
+here is the code for the feature of forgot password.
+you just have to enter your email.
+we will send you a link in your email with verification code and
+you will be able to set a new password for login.
