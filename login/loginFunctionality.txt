@@ -2,3 +2,5 @@ This is the login functionalities
 added another functinality for forgot password
 added remember me feature
 
+added "New User?" button in login page successfully
+
